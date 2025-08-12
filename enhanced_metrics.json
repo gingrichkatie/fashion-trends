@@ -1,0 +1,38 @@
+{
+  "Enhanced_HistGradientBoosting": {
+    "MAE": 30.091,
+    "RMSE": 110.889,
+    "R2": 0.958,
+    "MAPE": 6.8,
+    "MAE_train": 0.0,
+    "RMSE_train": 0.0,
+    "R2_train": 1.0,
+    "MAPE_train": 0.0,
+    "CV_RMSE_train": 382.571,
+    "CV_RMSE_std": 463.61
+  },
+  "Enhanced_RandomForest": {
+    "MAE": 25.831,
+    "RMSE": 59.896,
+    "R2": 0.988,
+    "MAPE": 8.2,
+    "MAE_train": 34.35,
+    "RMSE_train": 116.886,
+    "R2_train": 0.984,
+    "MAPE_train": 3.0,
+    "CV_RMSE_train": 345.066,
+    "CV_RMSE_std": 324.477
+  },
+  "Enhanced_ExtraTrees": {
+    "MAE": 24.121,
+    "RMSE": 76.441,
+    "R2": 0.98,
+    "MAPE": 5.2,
+    "MAE_train": 3.207,
+    "RMSE_train": 10.448,
+    "R2_train": 1.0,
+    "MAPE_train": 0.4,
+    "CV_RMSE_train": 332.738,
+    "CV_RMSE_std": 342.523
+  }
+}
